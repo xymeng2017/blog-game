@@ -16,7 +16,8 @@ pomelo是个伟大的框架，但驾驭它有一定的难度。只有反复读�
 
 ## 技巧索引
 
-[rpc函数由callback转为Promise](https://github.com/xymeng2017/blogofpomelo/wiki/rpc%E5%87%BD%E6%95%B0%E7%94%B1callback%E8%BD%AC%E4%B8%BAPromise)
+* [rpc函数由callback转为Promise](https://github.com/xymeng2017/blogofpomelo/wiki/rpc%E5%87%BD%E6%95%B0%E7%94%B1callback%E8%BD%AC%E4%B8%BAPromise)
+* [制作npm es6库最佳实践](https://github.com/xymeng2017/blogofpomelo/wiki/%E5%88%B6%E4%BD%9Cnpm-es6%E5%BA%93%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
 
 ## License
 
