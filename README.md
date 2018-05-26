@@ -24,6 +24,11 @@
 * photoshop
 * unity shader
 
+#### DevOps
+
+* git & github
+
+
 ## 技巧索引
 
 * [rpc函数由callback转为Promise](https://github.com/xymeng2017/blogofpomelo/wiki/rpc%E5%87%BD%E6%95%B0%E7%94%B1callback%E8%BD%AC%E4%B8%BAPromise)
